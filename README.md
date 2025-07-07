@@ -35,6 +35,7 @@ An interactive web application built using the MERN Stack (MongoDB, Express, Rea
 
 👥 Contributors
 Gabriella Wekesa 
+Peace Ifiok
 [Add your name below as you fork and contribute]
 
 
